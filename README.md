@@ -9,3 +9,4 @@ const Ali = {
   },
 };
 ```
+<img src ="https://www.codewars.com/users/eliqarayev/badges/micro"/>
